@@ -15,7 +15,7 @@ Requirements:
 
 1.	Define an Animal Abstract Class:
    - The Animal abstract class should declare the following methods:
-   - void makeSound()
+   - String makeSound()
    - String getKind()
    - String getDescription()
 2.	Create at least three concrete animal classes: Dog, Bird, Fish
